@@ -1,5 +1,5 @@
 <!-- Font Awesome -->
-<script src="https://use.fontawesome.com/f43019ec3f.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" />
 
 <!-- Favicon -->
 <link rel="shortcut icon" href="./image/favicon.ico" type="image/x-icon" />
